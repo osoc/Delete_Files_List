@@ -11,7 +11,7 @@
 
 ![system.img中常规文件sha256sum](ZTE/BLADE_A2/update_5.1/system.img中常规文件sha256sum.txt) [已核对]
 
-![system.img中常规文件作用说明](ZTE/BLADE_A2/update_5.1/system.img中常规文件作用说明.txt)
+![system.img中常规文件作用说明](ZTE/BLADE_A2/update_5.1/system.img中常规文件作用说明.txt) [草稿]
 
 ![system.img中可删除文件](ZTE/BLADE_A2/update_5.1/Delete_Files_List)
 
