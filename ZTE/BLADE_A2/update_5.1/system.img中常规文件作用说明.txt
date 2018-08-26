@@ -9,8 +9,8 @@
 -system/app/AuthComp/arm64/AuthComp.odex 中兴账号通
 =system/app/BSPTelephonyDevTool/BSPTelephonyDevTool.apk 电话开启相关工具，删除后不能滑屏
 =system/app/BSPTelephonyDevTool/arm64/BSPTelephonyDevTool.odex 电话开启相关工具，删除后不能滑屏
-?system/app/ BasicDreams/BasicDreams.apk
-?system/app/BasicDreams/arm64/BasicDreams.odex
+-system/app/ BasicDreams/BasicDreams.apk 基本屏保？
+-system/app/BasicDreams/arm64/BasicDreams.odex 基本屏保？
 =system/app/BatteryWarning/BatteryWarning.apk 低电量警告
 =system/app/BatteryWarning/arm64/BatteryWarning.odex 低电量警告
 =system/app/Bluetooth/Bluetooth.apk
@@ -23,8 +23,8 @@
 -system/app/CalendarWidget_ZTE/arm64/CalendarWidget_ZTE.odex 日历控件
 -system/app/Calendar_ZTE/Calendar_ZTE.apk 日历
 -system/app/Calendar_ZTE/arm64/Calendar_ZTE.odex 日历
-?system/app/CaptivePortalLogin/CaptivePortalLogin.apk
-?system/app/CaptivePortalLogin/arm64/CaptivePortalLogin.odex
+-system/app/CaptivePortalLogin/CaptivePortalLogin.apk 虚拟门户登录？
+-system/app/CaptivePortalLogin/arm64/CaptivePortalLogin.odex 虚拟门户登录？
 ?system/app/CertInstaller/CertInstaller.apk 证书安装器
 ?system/app/CertInstaller/arm64/CertInstaller.odex 证书安装器
 ?system/app/ConfigureCheck/ConfigureCheck.apk 配置检查
@@ -77,8 +77,8 @@ system/app/DrmProvider/arm64/DrmProvider.odex
 =system/app/KeyChain/arm64/KeyChain.odex 锁屏设置
 -system/app/LatinIME/LatinIME.apk
 -system/app/LatinIME/arm64/LatinIME.odex
-?system/app/Launcherwidget_ZTE/Launcherwidget_ZTE.apk
-?system/app/Launcherwidget_ZTE/arm64/Launcherwidget_ZTE.odex
+-system/app/Launcherwidget_ZTE/Launcherwidget_ZTE.apk
+-system/app/Launcherwidget_ZTE/arm64/Launcherwidget_ZTE.odex
 -system/app/LiveWallpapers/LiveWallpapers.apk
 -system/app/LiveWallpapers/arm/LiveWallpapers.odex
 -system/app/LiveWallpapers/arm64/LiveWallpapers.odex
@@ -90,8 +90,8 @@ system/app/DrmProvider/arm64/DrmProvider.odex
 -system/app/MIPop/arm64/MIPop.odex 屏幕助手
 -system/app/MTKAndroidSuiteDaemon/MTKAndroidSuiteDaemon.apk 安卓Suite守护进程
 -system/app/MTKAndroidSuiteDaemon/arm64/MTKAndroidSuiteDaemon.odex 安卓Suite守护进程
-?system/app/MTKLogger/MTKLogger.apk MTK日志
-?system/app/MTKLogger/arm64/MTKLogger.odex MTK日志
+-system/app/MTKLogger/MTKLogger.apk MTK日志
+-system/app/MTKLogger/arm64/MTKLogger.odex MTK日志
 ?system/app/MTKSystemInfo/MTKSystemInfo.apk MTK系统信息
 ?system/app/MTKSystemInfo/arm64/MTKSystemInfo.odex MTK系统信息
 = system/app/MTKThermalManager/MTKThermalManager.apk MTK散热管理
@@ -108,66 +108,66 @@ system/app/DrmProvider/arm64/DrmProvider.odex
 ?system/app/NlpService/arm64/NlpService.odex
 -system/app/NoiseField/NoiseField.apk 动态壁纸
 -system/app/NoiseField/arm/NoiseField.odex 动态壁纸
--system/app/NoiseField/arm64/NoiseField.odex
--system/app/Omacp/Omacp.apk 手机配置信息
--system/app/Omacp/arm64/Omacp.odex 手机配置信息
--system/app/PacProcessor/PacProcessor.apk 代理服务相关的数据处理程序？
--system/app/PacProcessor/arm64/PacProcessor.odex 代理服务相关的数据处理程序？
-=system/app/PackageInstaller_ZTE/PackageInstaller_ZTE.apk 包安装程序
-=system/app/PackageInstaller_ZTE/arm64/PackageInstaller_ZTE.odex 安装程序
+-system/app/NoiseField/arm64/NoiseField.odex 动态壁纸
+?system/app/Omacp/Omacp.apk
+?system/app/Omacp/arm64/Omacp.odex
+?system/app/PacProcessor/PacProcessor.apk
+?system/app/PacProcessor/arm64/PacProcessor.odex
+=system/app/PackageInstaller_ZTE/PackageInstaller_ZTE.apk
+=system/app/PackageInstaller_ZTE/arm64/PackageInstaller_ZTE.odex
 ?system/app/Pbclient/Pbclient.apk
 ?system/app/Pbclient/arm64/Pbclient.odex
--system/app/PhaseBeam/PhaseBeam.apk 动态壁纸
--system/app/PhaseBeam/arm/PhaseBeam.odex 动态壁纸
--system/app/PhaseBeam/arm64/PhaseBeam.odex 动态壁纸
--system/app/PhotoTable/PhotoTable.apk 照片屏幕保护程序
--system/app/PhotoTable/arm64/PhotoTable.odex 照片屏幕保护程序
+-system/app/PhaseBeam/PhaseBeam.apk
+-system/app/PhaseBeam/arm/PhaseBeam.odex
+-system/app/PhaseBeam/arm64/PhaseBeam.odex
+-system/app/PhotoTable/PhotoTable.apk
+-system/app/PhotoTable/arm64/PhotoTable.odex
 -system/app/PicoTts/PicoTts.apk
 -system/app/PicoTts/arm64/PicoTts.odex
--system/app/PrintSpooler/PrintSpooler.apk 打印处理服务
--system/app/PrintSpooler/arm64/PrintSpooler.odex 打印处理服务
-?system/app/RootPA/RootPA.apk
-?system/app/RootPA/arm/RootPA.odex
-=system/app/SchedulePowerOnOff/SchedulePowerOnOff.apk 定时开关机
-=system/app/SchedulePowerOnOff/arm64/SchedulePowerOnOff.odex 定时开关机
-?system/app/SelfRegister/SelfRegister.apk
-?system/app/SelfRegister/arm64/SelfRegister.odex
-=system/app/SmartPower/SmartPower.apk 智能省电？
-=system/app/SmartPower/arm64/SmartPower.odex 智能省电？
--system/app/SystemUpdate/SystemUpdate.apk 系统更新
--system/app/SystemUpdate/arm64/SystemUpdate.odex 系统更新
--system/app/SystemUpdateAssistant/SystemUpdateAssistant.apk 系统更新保持器
--system/app/SystemUpdateAssistant/arm64/SystemUpdateAssistant.odex 系统更新保持器
-?system/app/TTS_Service_1.0/TTS_Service_1.0.apk
-?system/app/TTS_Service_1.0/arm/TTS_Service_1.0.odex
-?system/app/TTS_Service_1.0/lib/arm/libttsaisound.so
-?system/app/TTS_Service_1.0/lib/arm/libwrapper.so
-?system/app/TestRadarAdapter/TestRadarAdapter.apk
-?system/app/TestRadarAdapter/arm64/TestRadarAdapter.odex
-?system/app/UnInstallApp_ZTE/UnInstallApp_ZTE.apk 卸载程序？
-?system/app/UnInstallApp_ZTE/arm64/UnInstallApp_ZTE.odex 卸载程序？
--system/app/UserDictionaryProvider/UserDictionaryProvider.apk 用户词典存储服务
--system/app/UserDictionaryProvider/arm64/UserDictionaryProvider.odex 用户词典存储服务
-=system/app/Utk/Utk.apk
-=system/app/Utk/arm64/Utk.odex
--system/app/VisualizationWallpapers/VisualizationWallpapers.apk 可视化壁纸
--system/app/VisualizationWallpapers/arm/VisualizationWallpapers.odex 可视化壁纸
--system/app/VisualizationWallpapers/arm64/VisualizationWallpapers.odex 可视化壁纸
-?system/app/VoiceCommand/VoiceCommand.apk 声控
-?system/app/VoiceCommand/arm/VoiceCommand.odex 声控
--system/app/VoiceExtension/VoiceExtension.apk 语音软件助手
--system/app/VoiceExtension/arm/VoiceExtension.odex 语音软件助手
--system/app/VoiceUnlock/VoiceUnlock.apk 语音解锁功能
--system/app/VoiceUnlock/arm64/VoiceUnlock.odex 语音解锁功能
-=system/app/Voip_ZTE/Voip_ZTE.apk IP电话
-=system/app/Voip_ZTE/arm64/Voip_ZTE.odex IP电话
+-system/app/PrintSpooler/PrintSpooler.apk
+-system/app/PrintSpooler/arm64/PrintSpooler.odex
+system/app/RootPA/RootPA.apk
+system/app/RootPA/arm/RootPA.odex
+system/app/SchedulePowerOnOff/SchedulePowerOnOff.apk
+system/app/SchedulePowerOnOff/arm64/SchedulePowerOnOff.odex
+system/app/SelfRegister/SelfRegister.apk
+system/app/SelfRegister/arm64/SelfRegister.odex
+system/app/SmartPower/SmartPower.apk
+system/app/SmartPower/arm64/SmartPower.odex
+-system/app/SystemUpdate/SystemUpdate.apk
+-system/app/SystemUpdate/arm64/SystemUpdate.odex
+-system/app/SystemUpdateAssistant/SystemUpdateAssistant.apk
+-system/app/SystemUpdateAssistant/arm64/SystemUpdateAssistant.odex
+-system/app/TTS_Service_1.0/TTS_Service_1.0.apk
+-system/app/TTS_Service_1.0/arm/TTS_Service_1.0.odex
+-system/app/TTS_Service_1.0/lib/arm/libttsaisound.so
+-system/app/TTS_Service_1.0/lib/arm/libwrapper.so
+system/app/TestRadarAdapter/TestRadarAdapter.apk
+system/app/TestRadarAdapter/arm64/TestRadarAdapter.odex
+system/app/UnInstallApp_ZTE/UnInstallApp_ZTE.apk
+system/app/UnInstallApp_ZTE/arm64/UnInstallApp_ZTE.odex
+system/app/UserDictionaryProvider/UserDictionaryProvider.apk
+system/app/UserDictionaryProvider/arm64/UserDictionaryProvider.odex
+system/app/Utk/Utk.apk
+system/app/Utk/arm64/Utk.odex
+-system/app/VisualizationWallpapers/VisualizationWallpapers.apk
+-system/app/VisualizationWallpapers/arm/VisualizationWallpapers.odex
+-system/app/VisualizationWallpapers/arm64/VisualizationWallpapers.odex
+-system/app/VoiceCommand/VoiceCommand.apk
+-system/app/VoiceCommand/arm/VoiceCommand.odex
+-system/app/VoiceExtension/VoiceExtension.apk
+-system/app/VoiceExtension/arm/VoiceExtension.odex
+-system/app/VoiceUnlock/VoiceUnlock.apk
+-system/app/VoiceUnlock/arm64/VoiceUnlock.odex
+system/app/Voip_ZTE/Voip_ZTE.apk
+system/app/Voip_ZTE/arm64/Voip_ZTE.odex
 -system/app/WebViewGoogle/WebViewGoogle.apk
 -system/app/WebViewGoogle/arm/WebViewGoogle.odex
 -system/app/WebViewGoogle/arm64/WebViewGoogle.odex
--system/app/WiFiShare/WiFiShare.apk WIFI分享
--system/app/WiFiShare/arm64/WiFiShare.odex WIFI分享
-=system/app/YGPS/YGPS.apk GPS定位服务
-=system/app/YGPS/arm64/YGPS.odex GPS定位服务
+system/app/WiFiShare/WiFiShare.apk
+system/app/WiFiShare/arm64/WiFiShare.odex
+system/app/YGPS/YGPS.apk
+system/app/YGPS/arm64/YGPS.odex
 =system/app/fingerprint/arm64/fingerprint.odex 指纹
 =system/app/fingerprint/fingerprint.apk 指纹
 system/app/mcRegistry/020b0000000000000000000000000000.drbin
@@ -216,16 +216,16 @@ system/app/mcRegistry/9073f03a9618383bb1856eb3f990babd.drbin
 system/app/mcRegistry/9073f03a9618383bb1856eb3f990babd.tlbin
 system/app/mcRegistry/98fb95bcb4bf42d26473eae48690d7ea.tlbin
 system/app/mcRegistry/e97c270ea5c44c58bcd3384a2fa2539e.tlbin
-?system/app/moji_zte/arm/moji_zte.odex
-?system/app/moji_zte/lib/arm/libedittextutil.so
-?system/app/moji_zte/lib/arm/libgetuiext.so
-?system/app/moji_zte/lib/arm/libskinEncrypt.so
-?system/app/moji_zte/lib/arm/libusedes.so
-?system/app/moji_zte/lib/arm/libweibosdkcore.so
-?system/app/moji_zte/moji_zte.apk
-?system/app/webview/webview.apk
-?system/app/zgesture/arm64/zgesture.odex
-?system/app/zgesture/zgesture.apk
+system/app/moji_zte/arm/moji_zte.odex
+system/app/moji_zte/lib/arm/libedittextutil.so
+system/app/moji_zte/lib/arm/libgetuiext.so
+system/app/moji_zte/lib/arm/libskinEncrypt.so
+system/app/moji_zte/lib/arm/libusedes.so
+system/app/moji_zte/lib/arm/libweibosdkcore.so
+system/app/moji_zte/moji_zte.apk
+system/app/webview/webview.apk
+system/app/zgesture/arm64/zgesture.odex
+system/app/zgesture/zgesture.apk
 -system/app/zte_sogou/arm/zte_sogou.odex 搜狗输入法
 -system/app/zte_sogou/lib/arm/libsogouupdcore.so 搜狗输入法
 -system/app/zte_sogou/lib/arm/libwebp.so 搜狗输入法
@@ -271,7 +271,7 @@ system/bin/bootanimation
 system/bin/btconfig
 system/bin/btlogmask
 system/bin/bu
--system/bin/bugreport
+system/bin/bugreport
 system/bin/busybox
 system/bin/ccci_fsd
 system/bin/ccci_mdinit
@@ -2828,8 +2828,8 @@ system/media/video/edge720p.png
 -system/priv-app/DoubleApp/arm64/DoubleApp.odex 应用分身
 -system/priv-app/DownloadMgr_ZTE/DownloadMgr_ZTE.apk 下载管理
 -system/priv-app/DownloadMgr_ZTE/arm64/DownloadMgr_ZTE.odex 下载管理
-?system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk 外部存储设备可删
-?system/priv-app/ExternalStorageProvider/arm64/ExternalStorageProvider.odex 外部存储设备可删
+?system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk 外部存储设备?
+?system/priv-app/ExternalStorageProvider/arm64/ExternalStorageProvider.odex 外部存储设备?
 -system/priv-app/FMRadio_ZTE/FMRadio_ZTE.apk 收音机
 -system/priv-app/FMRadio_ZTE/arm64/FMRadio_ZTE.odex 收音机
 =system/priv-app/FileMgr_ZTE/FileMgr_ZTE.apk 文件管理
@@ -2869,30 +2869,30 @@ system/media/video/edge720p.png
 =system/priv-app/HeartyService/arm64/HeartyService.odex 掌心管家
 =system/priv-app/InputDevices/InputDevices.apk 输入设备
 =system/priv-app/InputDevices/arm64/InputDevices.odex 输入设备
--system/priv-app/IswDotExp/IswDotExp.apk
--system/priv-app/IswDotExp/arm64/IswDotExp.odex
--system/priv-app/IswDotExp/lib/arm64/libJNIIsw.so
--system/priv-app/IswDotExp/lib/arm64/liblocSDK5.so
+?system/priv-app/IswDotExp/IswDotExp.apk
+?system/priv-app/IswDotExp/arm64/IswDotExp.odex
+?system/priv-app/IswDotExp/lib/arm64/libJNIIsw.so
+?system/priv-app/IswDotExp/lib/arm64/liblocSDK5.so
 =system/priv-app/LauncherAdapter_ZTE/LauncherAdapter_ZTE.apk 启动器
 =system/priv-app/LauncherAdapter_ZTE/arm64/LauncherAdapter_ZTE.odex 启动器
 =system/priv-app/Launcher_ZTE/Launcher_ZTE.apk 启动器
 =system/priv-app/Launcher_ZTE/arm64/Launcher_ZTE.odex 启动器
 -system/priv-app/LiveStore_ZTE/LiveStore_ZTE.apk 动态壁纸？
--system/priv-app/LiveStore_ZTE/arm64/LiveStore_ZTE.odex动态壁纸？
+-system/priv-app/LiveStore_ZTE/arm64/LiveStore_ZTE.odex 动态壁纸？
 =system/priv-app/ManagedProvisioning/ManagedProvisioning.apk 设备配置器
 =system/priv-app/ManagedProvisioning/arm64/ManagedProvisioning.odex 设备配置器
 =system/priv-app/MediaProvider/MediaProvider.apk 媒体提供者
 =system/priv-app/MediaProvider/arm64/MediaProvider.odex 媒体提供者
 -system/priv-app/MiEasyModeAPIService/MiEasyModeAPIService.apk 亲情模式
--system/priv-app/MiEasyModeAPIService/arm64/MiEasyModeAPIService.odex亲情模式
+-system/priv-app/MiEasyModeAPIService/arm64/MiEasyModeAPIService.odex 亲情模式
 -system/priv-app/MiraVision_ZTE/MiraVision_ZTE.apk 联发科技股份有限公司开发的一种图像显示技术
 -system/priv-app/MiraVision_ZTE/arm64/MiraVision_ZTE.odex 联发科技股份有限公司开发的一种图像显示技术
-?system/priv-app/MirrorCamera/MirrorCamera.apk 镜像相机
-?system/priv-app/MirrorCamera/arm64/MirrorCamera.odex 镜像相机
-=system/priv-app/MmsService/MmsService.apk
-=system/priv-app/MmsService/arm64/MmsService.odex
-=system/priv-app/Mms_ZTE/Mms_ZTE.apk
-=system/priv-app/Mms_ZTE/arm64/Mms_ZTE.odex
+-system/priv-app/MirrorCamera/MirrorCamera.apk 化妆镜
+-system/priv-app/MirrorCamera/arm64/MirrorCamera.odex 化妆镜
+=system/priv-app/MmsService/MmsService.apk 短信服务
+=system/priv-app/MmsService/arm64/MmsService.odex 短信服务
+=system/priv-app/Mms_ZTE/Mms_ZTE.apk 短信
+=system/priv-app/Mms_ZTE/arm64/Mms_ZTE.odex 短信
 -system/priv-app/MusicPlayer_ZTE/MusicPlayer_ZTE.apk
 -system/priv-app/MusicPlayer_ZTE/arm/MusicPlayer_ZTE.odex
 -system/priv-app/MusicPlayer_ZTE/lib/arm/libSpeex.so
@@ -2917,10 +2917,10 @@ system/media/video/edge720p.png
 -system/priv-app/RetrieveClient/RetrieveClient.apk 手机防盗
 -system/priv-app/RetrieveClient/arm/RetrieveClient.odex 手机防盗
 -system/priv-app/RetrieveClient/lib/arm/liblocSDK6a.so 手机防盗
-=system/priv-app/SettingsProvider/SettingsProvider.apk
-=system/priv-app/SettingsProvider/arm64/SettingsProvider.odex
-=system/priv-app/Settings_ZTE/Settings_ZTE.apk
-=system/priv-app/Settings_ZTE/arm64/Settings_ZTE.odex
+=system/priv-app/SettingsProvider/SettingsProvider.apk 设置存储
+=system/priv-app/SettingsProvider/arm64/SettingsProvider.odex 设置存储
+=system/priv-app/Settings_ZTE/Settings_ZTE.apk 设置
+=system/priv-app/Settings_ZTE/arm64/Settings_ZTE.odex 设置
 -system/priv-app/SetupWizard_ZTE/SetupWizard_ZTE.apk 开机向导,设置助手
 -system/priv-app/SetupWizard_ZTE/arm64/SetupWizard_ZTE.odex 开机向导,设置助手
 -system/priv-app/SharedStorageBackup/SharedStorageBackup.apk 共享数据备份服务
@@ -2958,8 +2958,8 @@ system/media/video/edge720p.png
 -system/priv-app/ZteNote/arm/ZteNote.odex 备忘录
 -system/priv-app/ZteNote/lib/arm/libBDVoiceRecognitionClient_V1.so 备忘录
 -system/priv-app/ZteNote/lib/arm/libBMapApiEngine_v1_3_5.so 备忘录
--system/priv-app/appservice/appservice.apk 附加服务？
--system/priv-app/appservice/arm64/appservice.odex 附加服务？
+-system/priv-app/appservice/appservice.apk 应用安装服务？
+-system/priv-app/appservice/arm64/appservice.odex 应用安装服务？
 -system/priv-app/huahualock_zte_apk/arm64/huahualock_zte_apk.odex 花花锁屏
 -system/priv-app/huahualock_zte_apk/huahualock_zte_apk.apk 花花锁屏
 ?system/priv-app/zdmDaemon/arm64/zdmDaemon.odex ZDM守护进程？
@@ -3037,50 +3037,50 @@ system/usr/keylayout/mtk-tpd.kl
 system/usr/keylayout/qwerty.kl
 system/usr/share/bmd/RFFspeed_501.bmd
 system/usr/share/bmd/RFFstd_501.bmd
-?system/usr/share/zoneinfo/tzdata
-?system/vendor/lib/drm/libdrmwvmplugin.so
-?system/vendor/lib/hw/audio.a2dp.blueangel.so
-?system/vendor/lib/hw/bluetooth.blueangel.so
-?system/vendor/lib/libWVStreamControlAPI_L3.so
-?system/vendor/lib/libwvdrm_L3.so
-?system/vendor/lib/libwvm.so 无线视频监控
-?system/vendor/lib/mediadrm/libdrmclearkeyplugin.so 媒体数字版权管理
-?system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so 媒体数字版权管理
-?system/vendor/lib/mediadrm/libwvdrmengine.so 媒体数字版权管理
-?system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so 媒体数字版权管理
-?system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so 媒体数字版权管理
+system/usr/share/zoneinfo/tzdata
+system/vendor/lib/drm/libdrmwvmplugin.so
+system/vendor/lib/hw/audio.a2dp.blueangel.so
+system/vendor/lib/hw/bluetooth.blueangel.so
+system/vendor/lib/libWVStreamControlAPI_L3.so
+system/vendor/lib/libwvdrm_L3.so
+system/vendor/lib/libwvm.so 无线视频监控？
+system/vendor/lib/mediadrm/libdrmclearkeyplugin.so 媒体数字版权管理
+system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so 媒体数字版权管理
+system/vendor/lib/mediadrm/libwvdrmengine.so 媒体数字版权管理
+system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so 媒体数字版权管理
+system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so 媒体数字版权管理
 -system/vendor/operator/app/AliveShare/AliveShare.apk 汇分享
 -system/vendor/operator/app/AliveShare/arm/AliveShare.odex 汇分享
--system/vendor/operator/app/JJLord/JJLord.apk
--system/vendor/operator/app/JJLord/arm/JJLord.odex
--system/vendor/operator/app/Mi-EasyMode/Mi-EasyMode.apk
--system/vendor/operator/app/Mi-EasyMode/arm/Mi-EasyMode.odex
--system/vendor/operator/app/SogouSearch/SogouSearch.apk
--system/vendor/operator/app/SogouSearch/arm/SogouSearch.odex
--system/vendor/operator/app/TencentNews/TencentNews.apk
--system/vendor/operator/app/TencentNews/arm/TencentNews.odex
--system/vendor/operator/app/ZTEMarket/ZTEMarket.apk
--system/vendor/operator/app/ZTEMarket/arm/ZTEMarket.odex
--system/vendor/operator/app/baidumap/arm/baidumap.odex
--system/vendor/operator/app/baidumap/baidumap.apk
--system/vendor/operator/app/dianping_zte/arm/dianping_zte.odex
--system/vendor/operator/app/dianping_zte/dianping_zte.apk
+-system/vendor/operator/app/JJLord/JJLord.apk 斗地主
+-system/vendor/operator/app/JJLord/arm/JJLord.odex 斗地主
+-system/vendor/operator/app/Mi-EasyMode/Mi-EasyMode.apk 亲情模式启动器
+-system/vendor/operator/app/Mi-EasyMode/arm/Mi-EasyMode.odex 亲情模式启动器
+-system/vendor/operator/app/SogouSearch/SogouSearch.apk 搜狗搜索
+-system/vendor/operator/app/SogouSearch/arm/SogouSearch.odex 搜狗搜索
+-system/vendor/operator/app/TencentNews/TencentNews.apk 腾讯新闻
+-system/vendor/operator/app/TencentNews/arm/TencentNews.odex 腾讯新闻
+-system/vendor/operator/app/ZTEMarket/ZTEMarket.apk 应用市场
+-system/vendor/operator/app/ZTEMarket/arm/ZTEMarket.odex 应用市场
+-system/vendor/operator/app/baidumap/arm/baidumap.odex 百度地图
+-system/vendor/operator/app/baidumap/baidumap.apk 百度地图
+-system/vendor/operator/app/dianping_zte/arm/dianping_zte.odex 大众点评
+-system/vendor/operator/app/dianping_zte/dianping_zte.apk 大众点评
 -system/vendor/operator/app/iReader/arm/iReader.odex
 -system/vendor/operator/app/iReader/iReader.apk
--system/vendor/operator/app/jd/arm/jd.odex
--system/vendor/operator/app/jd/jd.apk
--system/vendor/operator/app/kaixinxiaoxiaole_zte/arm/kaixinxiaoxiaole_zte.odex
--system/vendor/operator/app/kaixinxiaoxiaole_zte/kaixinxiaoxiaole_zte.apk
--system/vendor/operator/app/onelock/arm64/onelock.odex
--system/vendor/operator/app/onelock/onelock.apk
--system/vendor/operator/app/qqbrowser/arm/qqbrowser.odex
--system/vendor/operator/app/qqbrowser/qqbrowser.apk
--system/vendor/operator/app/tencentvideo/arm/tencentvideo.odex
--system/vendor/operator/app/tencentvideo/tencentvideo.apk
--system/vendor/operator/app/vipshop/arm64/vipshop.odex
--system/vendor/operator/app/vipshop/vipshop.apk
--system/vendor/operator/app/weibo/arm/weibo.odex
--system/vendor/operator/app/weibo/weibo.apk
+-system/vendor/operator/app/jd/arm/jd.odex 京东
+-system/vendor/operator/app/jd/jd.apk 京东
+-system/vendor/operator/app/kaixinxiaoxiaole_zte/arm/kaixinxiaoxiaole_zte.odex 开心消消乐
+-system/vendor/operator/app/kaixinxiaoxiaole_zte/kaixinxiaoxiaole_zte.apk 开心消消乐
+-system/vendor/operator/app/onelock/arm64/onelock.odex 一键锁屏
+-system/vendor/operator/app/onelock/onelock.apk 一键锁屏
+-system/vendor/operator/app/qqbrowser/arm/qqbrowser.odex QQ浏览器
+-system/vendor/operator/app/qqbrowser/qqbrowser.apk QQ浏览器
+-system/vendor/operator/app/tencentvideo/arm/tencentvideo.odex 腾讯视频
+-system/vendor/operator/app/tencentvideo/tencentvideo.apk 腾讯视频
+-system/vendor/operator/app/vipshop/arm64/vipshop.odex 维品会
+-system/vendor/operator/app/vipshop/vipshop.apk 维品会
+-system/vendor/operator/app/weibo/arm/weibo.odex 新浪微博
+-system/vendor/operator/app/weibo/weibo.apk 新浪微博
 system/xbin/BGW
 system/xbin/MPED
 system/xbin/dexdump
