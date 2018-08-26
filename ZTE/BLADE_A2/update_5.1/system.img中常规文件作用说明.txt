@@ -109,33 +109,33 @@ system/app/DrmProvider/arm64/DrmProvider.odex
 -system/app/NoiseField/NoiseField.apk 动态壁纸
 -system/app/NoiseField/arm/NoiseField.odex 动态壁纸
 -system/app/NoiseField/arm64/NoiseField.odex 动态壁纸
-?system/app/Omacp/Omacp.apk
-?system/app/Omacp/arm64/Omacp.odex
-?system/app/PacProcessor/PacProcessor.apk
-?system/app/PacProcessor/arm64/PacProcessor.odex
-=system/app/PackageInstaller_ZTE/PackageInstaller_ZTE.apk
-=system/app/PackageInstaller_ZTE/arm64/PackageInstaller_ZTE.odex
+?system/app/Omacp/Omacp.apk 手机配置信息？
+?system/app/Omacp/arm64/Omacp.odex 手机配置信息？
+?system/app/PacProcessor/PacProcessor.apk 代理服务相关的数据处理程序？
+?system/app/PacProcessor/arm64/PacProcessor.odex 代理服务相关的数据处理程序？
+=system/app/PackageInstaller_ZTE/PackageInstaller_ZTE.apk 安装程序
+=system/app/PackageInstaller_ZTE/arm64/PackageInstaller_ZTE.odex 安装程序
 ?system/app/Pbclient/Pbclient.apk
 ?system/app/Pbclient/arm64/Pbclient.odex
 -system/app/PhaseBeam/PhaseBeam.apk
 -system/app/PhaseBeam/arm/PhaseBeam.odex
 -system/app/PhaseBeam/arm64/PhaseBeam.odex
--system/app/PhotoTable/PhotoTable.apk
--system/app/PhotoTable/arm64/PhotoTable.odex
--system/app/PicoTts/PicoTts.apk
--system/app/PicoTts/arm64/PicoTts.odex
--system/app/PrintSpooler/PrintSpooler.apk
--system/app/PrintSpooler/arm64/PrintSpooler.odex
-system/app/RootPA/RootPA.apk
-system/app/RootPA/arm/RootPA.odex
-system/app/SchedulePowerOnOff/SchedulePowerOnOff.apk
-system/app/SchedulePowerOnOff/arm64/SchedulePowerOnOff.odex
+-system/app/PhotoTable/PhotoTable.apk 照片屏幕保护程序
+-system/app/PhotoTable/arm64/PhotoTable.odex 照片屏幕保护程序
+-system/app/PicoTts/PicoTts.apk 文字转语音（不含中文）
+-system/app/PicoTts/arm64/PicoTts.odex 文字转语音（不含中文）
+-system/app/PrintSpooler/PrintSpooler.apk 打印处理服务
+-system/app/PrintSpooler/arm64/PrintSpooler.odex 打印处理服务
+?system/app/RootPA/RootPA.apk
+?system/app/RootPA/arm/RootPA.odex
+=system/app/SchedulePowerOnOff/SchedulePowerOnOff.apk 定时开关机
+=system/app/SchedulePowerOnOff/arm64/SchedulePowerOnOff.odex 定时开关机
 system/app/SelfRegister/SelfRegister.apk
 system/app/SelfRegister/arm64/SelfRegister.odex
-system/app/SmartPower/SmartPower.apk
-system/app/SmartPower/arm64/SmartPower.odex
--system/app/SystemUpdate/SystemUpdate.apk
--system/app/SystemUpdate/arm64/SystemUpdate.odex
+=system/app/SmartPower/SmartPower.apk 智能省电
+=system/app/SmartPower/arm64/SmartPower.odex 智能省电
+-system/app/SystemUpdate/SystemUpdate.apk 系统更新
+-system/app/SystemUpdate/arm64/SystemUpdate.odex 系统更新
 -system/app/SystemUpdateAssistant/SystemUpdateAssistant.apk
 -system/app/SystemUpdateAssistant/arm64/SystemUpdateAssistant.odex
 -system/app/TTS_Service_1.0/TTS_Service_1.0.apk
@@ -144,23 +144,23 @@ system/app/SmartPower/arm64/SmartPower.odex
 -system/app/TTS_Service_1.0/lib/arm/libwrapper.so
 system/app/TestRadarAdapter/TestRadarAdapter.apk
 system/app/TestRadarAdapter/arm64/TestRadarAdapter.odex
-system/app/UnInstallApp_ZTE/UnInstallApp_ZTE.apk
-system/app/UnInstallApp_ZTE/arm64/UnInstallApp_ZTE.odex
-system/app/UserDictionaryProvider/UserDictionaryProvider.apk
-system/app/UserDictionaryProvider/arm64/UserDictionaryProvider.odex
-system/app/Utk/Utk.apk
-system/app/Utk/arm64/Utk.odex
--system/app/VisualizationWallpapers/VisualizationWallpapers.apk
--system/app/VisualizationWallpapers/arm/VisualizationWallpapers.odex
--system/app/VisualizationWallpapers/arm64/VisualizationWallpapers.odex
+system/app/UnInstallApp_ZTE/UnInstallApp_ZTE.apk 一键卸载？
+system/app/UnInstallApp_ZTE/arm64/UnInstallApp_ZTE.odex 一键卸载？
+-system/app/UserDictionaryProvider/UserDictionaryProvider.apk 用户词典？
+-system/app/UserDictionaryProvider/arm64/UserDictionaryProvider.odex 用户词典？
+=system/app/Utk/Utk.apk
+=system/app/Utk/arm64/Utk.odex
+-system/app/VisualizationWallpapers/VisualizationWallpapers.apk 动态壁纸
+-system/app/VisualizationWallpapers/arm/VisualizationWallpapers.odex 动态壁纸
+-system/app/VisualizationWallpapers/arm64/VisualizationWallpapers.odex 动态壁纸
 -system/app/VoiceCommand/VoiceCommand.apk
 -system/app/VoiceCommand/arm/VoiceCommand.odex
 -system/app/VoiceExtension/VoiceExtension.apk
 -system/app/VoiceExtension/arm/VoiceExtension.odex
--system/app/VoiceUnlock/VoiceUnlock.apk
--system/app/VoiceUnlock/arm64/VoiceUnlock.odex
-system/app/Voip_ZTE/Voip_ZTE.apk
-system/app/Voip_ZTE/arm64/Voip_ZTE.odex
+-system/app/VoiceUnlock/VoiceUnlock.apk 语音解锁？
+-system/app/VoiceUnlock/arm64/VoiceUnlock.odex 语音解锁？
+=system/app/Voip_ZTE/Voip_ZTE.apk IP电话
+=system/app/Voip_ZTE/arm64/Voip_ZTE.odex IP电话
 -system/app/WebViewGoogle/WebViewGoogle.apk
 -system/app/WebViewGoogle/arm/WebViewGoogle.odex
 -system/app/WebViewGoogle/arm64/WebViewGoogle.odex
@@ -2960,8 +2960,8 @@ system/media/video/edge720p.png
 -system/priv-app/ZteNote/lib/arm/libBMapApiEngine_v1_3_5.so 备忘录
 -system/priv-app/appservice/appservice.apk 应用安装服务？
 -system/priv-app/appservice/arm64/appservice.odex 应用安装服务？
--system/priv-app/huahualock_zte_apk/arm64/huahualock_zte_apk.odex 花花锁屏
--system/priv-app/huahualock_zte_apk/huahualock_zte_apk.apk 花花锁屏
+?system/priv-app/huahualock_zte_apk/arm64/huahualock_zte_apk.odex 花花锁屏
+?system/priv-app/huahualock_zte_apk/huahualock_zte_apk.apk 花花锁屏
 ?system/priv-app/zdmDaemon/arm64/zdmDaemon.odex ZDM守护进程？
 ?system/priv-app/zdmDaemon/zdmDaemon.apk ZDM守护进程？
 system/recovery-from-boot.p
