@@ -1,160 +1,160 @@
-system/app/Bluetooth/lib/arm/libbluetooth_jni.so
-system/app/LatinIME/lib/arm64/libjni_latinime.so
-system/app/PacProcessor/lib/arm64/libjni_pacprocessor.so
-system/app/PicoTts/lib/arm64/libttscompat.so
-system/app/PicoTts/lib/arm64/libttspico.so
-system/app/PrintSpooler/lib/arm64/libprintspooler_jni.so
-system/app/RootPA/lib/arm/libcommonpawrapper.so
-system/app/VoiceExtension/lib/arm/libvie_jni.so
-system/bin/acpi
-system/bin/app_process
-system/bin/basename
-system/bin/blockdev
-system/bin/bzcat
-system/bin/cal
-system/bin/cat
-system/bin/chcon
-system/bin/chgrp
-system/bin/chmod
-system/bin/chown
-system/bin/chroot
-system/bin/cksum
-system/bin/clear
-system/bin/cmp
-system/bin/comm
-system/bin/cp
-system/bin/cpio
-system/bin/cut
-system/bin/dalvikvm
-system/bin/date
-system/bin/dd
-system/bin/df
-system/bin/dirname
-system/bin/dmesg
-system/bin/dos2unix
-system/bin/du
-system/bin/echo
-system/bin/egrep
-system/bin/env
-system/bin/expand
-system/bin/expr
-system/bin/fallocate
-system/bin/false
-system/bin/fgrep
-system/bin/find
-system/bin/free
-system/bin/getenforce
-system/bin/getevent
-system/bin/getprop
-system/bin/groups
-system/bin/head
-system/bin/hostname
-system/bin/hwclock
-system/bin/id
-system/bin/ifconfig
-system/bin/iftop
-system/bin/inotifyd
-system/bin/insmod
-system/bin/ioctl
-system/bin/ionice
-system/bin/kill
-system/bin/ln
-system/bin/load_policy
-system/bin/log
-system/bin/logname
-system/bin/losetup
-system/bin/ls
-system/bin/lsmod
-system/bin/lsof
-system/bin/lsusb
-system/bin/md5sum
-system/bin/mkdir
-system/bin/mknod
-system/bin/mkswap
-system/bin/mktemp
-system/bin/modinfo
-system/bin/more
-system/bin/mount
-system/bin/mountpoint
-system/bin/mv
-system/bin/nandread
-system/bin/netstat
-system/bin/newfs_msdos
-system/bin/nice
-system/bin/nl
-system/bin/nohup
-system/bin/od
-system/bin/paste
-system/bin/patch
-system/bin/pgrep
-system/bin/pidof
-system/bin/pkill
-system/bin/pmap
-system/bin/printenv
-system/bin/printf
-system/bin/prlimit
-system/bin/ps
-system/bin/pwd
-system/bin/readlink
-system/bin/realpath
-system/bin/renice
-system/bin/restorecon
-system/bin/rm
-system/bin/rmdir
-system/bin/rmmod
-system/bin/route
-system/bin/runcon
-system/bin/sed
-system/bin/sendevent
-system/bin/seq
-system/bin/setenforce
-system/bin/setprop
-system/bin/setsid
-system/bin/sha1sum
-system/bin/sleep
-system/bin/sort
-system/bin/split
-system/bin/start
-system/bin/stat
-system/bin/stop
-system/bin/strings
-system/bin/swapoff
-system/bin/swapon
-system/bin/sync
-system/bin/sysctl
-system/bin/tac
-system/bin/tail
-system/bin/tar
-system/bin/taskset
-system/bin/tee
-system/bin/time
-system/bin/timeout
-system/bin/top
-system/bin/touch
-system/bin/tr
-system/bin/true
-system/bin/truncate
-system/bin/umount
-system/bin/uname
-system/bin/uniq
-system/bin/unix2dos
-system/bin/uptime
-system/bin/usleep
-system/bin/vmstat
-system/bin/watchprops
-system/bin/wc
-system/bin/which
-system/bin/whoami
-system/bin/xargs
-system/bin/yes
-system/fonts/DroidSans-Bold.ttf
-system/fonts/DroidSans.ttf
-system/lib/hw/gatekeeper.P650A30.so
-system/lib/hw/gatekeeper.mt6750.so
-system/lib/libGLESv3.so
-system/lib64/hw/gatekeeper.P650A30.so
-system/lib64/hw/gatekeeper.mt6750.so
-system/lib64/libGLESv3.so
-system/priv-app/DefaultContainerService/lib/arm64/libdefcontainer_jni.so
-system/priv-app/FMRadio_ZTE/lib/arm64/libfmjni.so
-system/priv-app/VoiceCommand/lib/arm/libvoicerecognition_jni.so
+system/app/Bluetooth/lib/arm/libbluetooth_jni.so -> /system/lib/libbluetooth_jni.so
+system/app/LatinIME/lib/arm64/libjni_latinime.so -> /system/lib64/libjni_latinime.so
+system/app/PacProcessor/lib/arm64/libjni_pacprocessor.so -> /system/lib64/libjni_pacprocessor.so
+system/app/PicoTts/lib/arm64/libttscompat.so -> /system/lib64/libttscompat.so
+system/app/PicoTts/lib/arm64/libttspico.so -> /system/lib64/libttspico.so
+system/app/PrintSpooler/lib/arm64/libprintspooler_jni.so -> /system/lib64/libprintspooler_jni.so
+system/app/RootPA/lib/arm/libcommonpawrapper.so -> /system/lib/libcommonpawrapper.so
+system/app/VoiceExtension/lib/arm/libvie_jni.so -> /system/lib/libvie_jni.so
+system/bin/acpi -> toybox
+system/bin/app_process -> app_process64
+system/bin/basename -> toybox
+system/bin/blockdev -> toybox
+system/bin/bzcat -> toybox
+system/bin/cal -> toybox
+system/bin/cat -> toybox
+system/bin/chcon -> toybox
+system/bin/chgrp -> toybox
+system/bin/chmod -> toybox
+system/bin/chown -> toybox
+system/bin/chroot -> toybox
+system/bin/cksum -> toybox
+system/bin/clear -> toybox
+system/bin/cmp -> toybox
+system/bin/comm -> toybox
+system/bin/cp -> toybox
+system/bin/cpio -> toybox
+system/bin/cut -> toybox
+system/bin/dalvikvm -> dalvikvm64
+system/bin/date -> toybox
+system/bin/dd -> toolbox
+system/bin/df -> toolbox
+system/bin/dirname -> toybox
+system/bin/dmesg -> toybox
+system/bin/dos2unix -> toybox
+system/bin/du -> toolbox
+system/bin/echo -> toybox
+system/bin/egrep -> grep
+system/bin/env -> toybox
+system/bin/expand -> toybox
+system/bin/expr -> toybox
+system/bin/fallocate -> toybox
+system/bin/false -> toybox
+system/bin/fgrep -> grep
+system/bin/find -> toybox
+system/bin/free -> toybox
+system/bin/getenforce -> toybox
+system/bin/getevent -> toolbox
+system/bin/getprop -> toybox
+system/bin/groups -> toybox
+system/bin/head -> toybox
+system/bin/hostname -> toybox
+system/bin/hwclock -> toybox
+system/bin/id -> toybox
+system/bin/ifconfig -> toybox
+system/bin/iftop -> toolbox
+system/bin/inotifyd -> toybox
+system/bin/insmod -> toybox
+system/bin/ioctl -> toolbox
+system/bin/ionice -> toolbox
+system/bin/kill -> toybox
+system/bin/ln -> toybox
+system/bin/load_policy -> toybox
+system/bin/log -> toolbox
+system/bin/logname -> toybox
+system/bin/losetup -> toybox
+system/bin/ls -> toolbox
+system/bin/lsmod -> toybox
+system/bin/lsof -> toolbox
+system/bin/lsusb -> toybox
+system/bin/md5sum -> toybox
+system/bin/mkdir -> toybox
+system/bin/mknod -> toybox
+system/bin/mkswap -> toybox
+system/bin/mktemp -> toybox
+system/bin/modinfo -> toybox
+system/bin/more -> toybox
+system/bin/mount -> toolbox
+system/bin/mountpoint -> toybox
+system/bin/mv -> toybox
+system/bin/nandread -> toolbox
+system/bin/netstat -> toybox
+system/bin/newfs_msdos -> toolbox
+system/bin/nice -> toybox
+system/bin/nl -> toybox
+system/bin/nohup -> toybox
+system/bin/od -> toybox
+system/bin/paste -> toybox
+system/bin/patch -> toybox
+system/bin/pgrep -> toybox
+system/bin/pidof -> toybox
+system/bin/pkill -> toybox
+system/bin/pmap -> toybox
+system/bin/printenv -> toybox
+system/bin/printf -> toybox
+system/bin/prlimit -> toolbox
+system/bin/ps -> toolbox
+system/bin/pwd -> toybox
+system/bin/readlink -> toybox
+system/bin/realpath -> toybox
+system/bin/renice -> toolbox
+system/bin/restorecon -> toybox
+system/bin/rm -> toybox
+system/bin/rmdir -> toybox
+system/bin/rmmod -> toybox
+system/bin/route -> toybox
+system/bin/runcon -> toybox
+system/bin/sed -> toybox
+system/bin/sendevent -> toolbox
+system/bin/seq -> toybox
+system/bin/setenforce -> toybox
+system/bin/setprop -> toybox
+system/bin/setsid -> toybox
+system/bin/sha1sum -> toybox
+system/bin/sleep -> toybox
+system/bin/sort -> toybox
+system/bin/split -> toybox
+system/bin/start -> toolbox
+system/bin/stat -> toybox
+system/bin/stop -> toolbox
+system/bin/strings -> toybox
+system/bin/swapoff -> toybox
+system/bin/swapon -> toybox
+system/bin/sync -> toybox
+system/bin/sysctl -> toybox
+system/bin/tac -> toybox
+system/bin/tail -> toybox
+system/bin/tar -> toybox
+system/bin/taskset -> toybox
+system/bin/tee -> toybox
+system/bin/time -> toybox
+system/bin/timeout -> toybox
+system/bin/top -> toolbox
+system/bin/touch -> toybox
+system/bin/tr -> toybox
+system/bin/true -> toybox
+system/bin/truncate -> toybox
+system/bin/umount -> toybox
+system/bin/uname -> toybox
+system/bin/uniq -> toybox
+system/bin/unix2dos -> toybox
+system/bin/uptime -> toolbox
+system/bin/usleep -> toybox
+system/bin/vmstat -> toybox
+system/bin/watchprops -> toolbox
+system/bin/wc -> toybox
+system/bin/which -> toybox
+system/bin/whoami -> toybox
+system/bin/xargs -> toybox
+system/bin/yes -> toybox
+system/fonts/DroidSans-Bold.ttf -> Roboto-Bold.ttf
+system/fonts/DroidSans.ttf -> Roboto-Regular.ttf
+system/lib64/hw/gatekeeper.mt6750.so -> libMcGatekeeper.so
+system/lib64/hw/gatekeeper.P650A30.so -> libMcGatekeeper.so
+system/lib64/libGLESv3.so -> libGLESv2.so
+system/lib/hw/gatekeeper.mt6750.so -> libMcGatekeeper.so
+system/lib/hw/gatekeeper.P650A30.so -> libMcGatekeeper.so
+system/lib/libGLESv3.so -> libGLESv2.so
+system/priv-app/DefaultContainerService/lib/arm64/libdefcontainer_jni.so -> /system/lib64/libdefcontainer_jni.so
+system/priv-app/FMRadio_ZTE/lib/arm64/libfmjni.so -> /system/lib64/libfmjni.so
+system/priv-app/VoiceCommand/lib/arm/libvoicerecognition_jni.so -> /system/lib/libvoicerecognition_jni.so
