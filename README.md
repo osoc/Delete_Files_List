@@ -17,9 +17,9 @@
 
 ### update_6.0文件清单
 
-![system.img中常规文件](ZTE/BLADE_A2/update_6.0/system.img中常规文件.txt)
+![system.img中常规文件](ZTE/BLADE_A2/update_6.0/system.img中常规文件.txt) [已核对]
 
-![system.img中符号链接](ZTE/BLADE_A2/update_6.0/system.img中符号链接.txt)
+![system.img中符号链接](ZTE/BLADE_A2/update_6.0/system.img中符号链接.txt) [已核对]
 
 ![system.img中常规文件sha256sum](ZTE/BLADE_A2/update_6.0/system.img中常规文件sha256sum.txt)
 
