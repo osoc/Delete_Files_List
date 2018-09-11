@@ -39,6 +39,7 @@ system/app/VisualizationWallpapers
 system/app/VoiceCommand
 system/app/VoiceExtension
 system/app/VoiceUnlock
+system/app/Voip_ZTE
 system/app/WiFiShare
 system/app/zte_sogou
 system/bin/bugreport
