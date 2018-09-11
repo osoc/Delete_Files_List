@@ -9,6 +9,8 @@
 # 5、免费电话已删除
 # 6、手机防盗已删除
 
+
+
 system/app/ApplicationsProvider
 system/app/AuthComp
 system/app/BasicDreams
@@ -104,6 +106,7 @@ system/media/bootaudio.mp3
 system/media/video/gen30.mp4
 system/priv-app/AliveUpdate
 system/priv-app/AMapNetworkLocation
+system/priv-app/appservice
 system/priv-app/Backup
 system/priv-app/BackupRestoreConfirmation
 system/priv-app/BrowserProvider
