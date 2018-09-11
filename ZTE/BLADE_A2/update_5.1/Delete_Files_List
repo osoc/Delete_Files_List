@@ -10,6 +10,7 @@ system/app/Email_ZTE
 system/app/Exchange_ZTE
 system/app/FWUpgrade
 system/app/FWUpgradeProvider
+system/app/Galaxy4
 system/app/HandService
 system/app/Helper_ZTE
 system/app/HoloSpiralWallpaper
@@ -24,18 +25,21 @@ system/app/MtkFloatMenu
 system/app/MTKLogger
 system/app/MusicFX
 system/app/NoiseField
+system/app/Pbclient
 system/app/PhaseBeam
 system/app/PhotoTable
 system/app/PicoTts
 system/app/PrintSpooler
 system/app/SystemUpdate
 system/app/SystemUpdateAssistant
+system/app/TTS_Service_1.0
 system/app/UnInstallApp_ZTE
 system/app/UserDictionaryProvider
 system/app/VisualizationWallpapers
 system/app/VoiceCommand
 system/app/VoiceExtension
 system/app/VoiceUnlock
+system/app/WiFiShare
 system/app/zte_sogou
 system/bin/bugreport
 system/bin/GoogleOtaBinder
@@ -99,6 +103,7 @@ system/priv-app/FusedLocation
 system/priv-app/GmsCore
 system/priv-app/GoogleLoginService
 system/priv-app/GoogleServicesFramework
+system/priv-app/IswDotExp
 system/priv-app/LiveStore_ZTE
 system/priv-app/MiEasyModeAPIService
 system/priv-app/MiraVision_ZTE
@@ -110,7 +115,9 @@ system/priv-app/UmeBrowser
 system/priv-app/VideoPlayer_ZTE
 system/priv-app/VpnDialogs
 system/priv-app/WallpaperCropper
+system/priv-app/ZDMNJV5
 system/priv-app/ZteNote
+system/res/images/*
 system/tts/lang_pico/de-DE_gl0_sg.bin
 system/tts/lang_pico/de-DE_ta.bin
 system/tts/lang_pico/en-GB_kh0_sg.bin
