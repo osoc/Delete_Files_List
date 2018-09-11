@@ -4,6 +4,10 @@
 # 已测试项目
 # 1、通话正常
 # 2、锁屏正常
+# 3、黄页已删除
+# 4、黑洞屏保已删除
+# 5、免费电话已删除
+# 6、手机防盗已删除
 
 system/app/ApplicationsProvider
 system/app/AuthComp
